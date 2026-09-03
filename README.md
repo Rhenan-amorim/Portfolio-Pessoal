@@ -1,16 +1,57 @@
-# React + Vite
+# Portfolio Pessoal - Rhenan Amorim
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Portfolio pessoal desenvolvido para apresentar minha trajetoria profissional, competencias, projetos e interesses nas areas de tecnologia, programacao, dados e inteligencia artificial aplicada.
 
-Currently, two official plugins are available:
+## Sobre
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Sou estudante de Analise e Desenvolvimento de Sistemas, com foco na construcao de uma carreira em tecnologia, programacao, dados e inteligencia artificial.
 
-## React Compiler
+Tambem possuo experiencia em marketing digital, com atuacao em campanhas de Google Ads e Meta Ads, criacao de anuncios, segmentacao de publico, copywriting e analise de resultados.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+O objetivo deste portfolio e reunir projetos praticos, experiencias e informacoes profissionais em um unico local.
 
-## Expanding the Oxlint configuration
+## Destaques do portfolio
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- Projetos de programacao em Linguagem C
+- Landing pages e projetos de desenvolvimento web
+- Estudos em Python, dados e inteligencia artificial aplicada
+- Experiencia em marketing digital e performance
+- Links para GitHub e LinkedIn
+
+## Tecnologias utilizadas
+
+Adicione apenas as tecnologias que estiverem realmente presentes no repositorio.
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- [OUTRAS TECNOLOGIAS UTILIZADAS]
+
+## Projetos relacionados
+
+- Sistema de Gerenciamento de Biblioteca em C  
+  https://github.com/Rhenan-amorim/sistema-gerenciamento-biblioteca-c
+
+- Gerenciador de Pedidos para Lanchonete em C  
+  https://github.com/Rhenan-amorim/gerenciador-pedidos-lanchonete-c
+
+- Landing Page Institucional - Setec Marine Service  
+  https://github.com/Rhenan-amorim/LandingPage-Setec-MarineService
+
+## Processo de desenvolvimento
+
+Este projeto foi desenvolvido com apoio de inteligencia artificial utilizando Claude Code.
+
+Minha participacao incluiu a definicao do objetivo do portfolio, estrutura de conteudo, direcionamento visual, revisao, testes e ajustes finais.
+
+A inteligencia artificial foi utilizada como ferramenta de apoio ao desenvolvimento. O projeto foi revisado e organizado para publicacao no GitHub.
+
+## Autor
+
+Rhenan Amorim
+
+Estudante de Analise e Desenvolvimento de Sistemas, com foco em programacao, dados e inteligencia artificial aplicada.
+
+LinkedIn: https://www.linkedin.com/in/rhenanamorim  
+GitHub: https://github.com/Rhenan-amorim
